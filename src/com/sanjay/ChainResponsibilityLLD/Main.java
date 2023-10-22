@@ -7,6 +7,7 @@ public class Main {
 		logObject.log(LogProcessor.ERROR, "error");
 		logObject.log(LogProcessor.DEBUG, "debug");
 		logObject.log(LogProcessor.INFO, "info");
+		System.out.println("finished");
 	}
 
 }
